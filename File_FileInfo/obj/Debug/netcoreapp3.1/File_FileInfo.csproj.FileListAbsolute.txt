@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.exe
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.deps.json
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.dll
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.pdb
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.dll
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.pdb
+C:\ProgramasCSharp\ConceitoDeFile_FileInfo\File_FileInfo\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.genruntimeconfig.cache
